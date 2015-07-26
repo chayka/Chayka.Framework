@@ -1,0 +1,16 @@
+{
+    "name": "chayka/framework",
+    "description": "Project contains documentation on Chayka.framework",
+    "require-dev": {
+        "evert/phpdoc-md": "dev-master"
+    },
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Boris Mossounov",
+            "email": "borix@tut.by"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
